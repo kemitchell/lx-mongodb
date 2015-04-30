@@ -31,7 +31,7 @@
         "mongodb schema",
         "mongodb json schema"
     ],
-    "license": "The MIT License (MIT)",
+    "license": "MIT",
     "licenses": [
         {
             "type": "MIT",
